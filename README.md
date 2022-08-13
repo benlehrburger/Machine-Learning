@@ -1,2 +1,2 @@
 # Machine-Learning
-Assignments from machine learning course
+Assignments from machine learning course (COSC 074)
